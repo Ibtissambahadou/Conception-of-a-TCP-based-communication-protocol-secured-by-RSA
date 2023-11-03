@@ -7,7 +7,7 @@ The code is written in Python 3. You must have Python 3 installed on your comput
 Installation
 You can simply clone the Git repository to obtain a local copy of the code.
 
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/Ibtissambahadou/your_repository.git
 
 Usage
 To run the server, execute the server.py file:
