@@ -1,7 +1,7 @@
 # Conception-of-a-TCP-based-communication-protocol-secured-by-RSA
 This project implements a secure communication protocol based on the TCP protocol and the RSA cryptography algorithm.
 
-Prerequisites
+Prerequisites 
 The code is written in Python 3. You must have Python 3 installed on your computer to run the code. Additionally, you must have the following Python modules installed: re, socket, subprocess.
 
 Installation
